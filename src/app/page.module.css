@@ -39,8 +39,6 @@
   align-items: center;
 }
 .carousel__item_details img {
-  /* width: 90px; */
-  /* height: 90px; */
   border-radius: 20px;
   object-fit: cover;
 }

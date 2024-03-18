@@ -1,6 +1,6 @@
 'use client';
 import { CarouselCard } from '@/components/CarouselCard';
-import styles from './Home.module.css';
+import styles from './page.module.css';
 import { ThreeAnimation } from '@/components/ThreeJS/ThreeAnimation';
 import { solar_system } from '@/constants/solar_system';
 import { useState } from 'react';
