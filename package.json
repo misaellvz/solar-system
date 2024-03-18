@@ -9,7 +9,7 @@
     "start": "next start",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "lint:fix": "eslint --fix 'src/**/*.{ts,tsx,json}'",
-    "format": "prettier --write 'src/**/*.{ts,tsx,css,md,json}' --config ./prettier.config.cjs",
+    "format": "prettier --write 'src/**/*.{ts,tsx,css,md,json}' --config ./prettier.config.cjs"
   },
   "dependencies": {
     "@types/three": "^0.162.0",
